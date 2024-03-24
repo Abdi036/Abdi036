@@ -5,7 +5,7 @@
 
 
 
-<a href="https://leetcode.com/Abdi036/">LeetCode<a>
+ 
 
 <!---
 Abdi036/Abdi036 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
