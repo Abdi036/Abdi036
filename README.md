@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Abdi Kumela
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Software Engineering
+- 🌱 I’m currently learning Software Engineering at Adama Science and Technology University
 - 📫 How to reach me abdikumela036@gmail.com
 
 
