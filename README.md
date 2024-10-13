@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Abdi Kumela
-- 👀 I’m interested in Web Development
+- 👋 Hello, I’m Abdi Kumela
+- Fullstack Web Developer 
 - 🌱 I’m currently learning Software Engineering at Adama Science and Technology University
 - 📫 How to reach me abdikumela036@gmail.com
 
